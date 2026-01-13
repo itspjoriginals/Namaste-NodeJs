@@ -43,13 +43,13 @@ V8 is Google’s **high-performance JavaScript engine** that:
 
 ### Execution Flow
 
-- JavaScript Code
-- ↓
-- V8 Engine (C++)
-- ↓
-- Machine Code
-- ↓
-- Computer (Binary)
+JavaScript Code
+      ↓
+V8 Engine (C++)
+      ↓
+Machine Code
+      ↓
+Computer (Binary)
 
 
 ---
